@@ -1,0 +1,37 @@
+body {
+  background-color: coral;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {
+  background-color: white;
+  width: 600px;
+  margin: auto;
+  padding: 20px 75px;
+  border-radius: 25px;
+}
+
+h1,
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.center {
+  text-align: center;
+}
+
+input {
+  font-size: 18px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+button {
+  background-color: coral;
+  color: white;
+  font-size: 20px;
+  padding: 5px 10px;
+}
